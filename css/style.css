@@ -86,10 +86,9 @@ h6 {
   font-weight: 400;
 }
 
-.wrapper {
-  background-color: brown;
-}
-
-.content__scale {
+.hello {
   font-size: 50px;
+  color: green;
+  text-justify: auto;
+  text-align: center;
 }
